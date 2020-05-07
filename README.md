@@ -1,5 +1,5 @@
 # jenkinsintegration
-jenkins integration with docker and web server
+fully automated jenkins integration with git github docker  project 
 
 ## 1. git branch :
 ``` git branch dev1  ------new dev1 branch craeted ```
